@@ -1,6 +1,6 @@
 ---
 title: "LAB 1"
-author: "Daniel Rodan & Ido Shalom"
+author: "Daniel Rodan"
 date: "2023-06-08"
 output:
   html_document:
